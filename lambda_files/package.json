@@ -1,0 +1,17 @@
+{
+  "name": "serverless-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-wallets": "^1.0.0",
+    "express": "^4.17.1",
+    "serverless-http": "^2.3.0"
+  }
+}
